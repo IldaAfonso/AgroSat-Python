@@ -1,0 +1,8 @@
+.vscode/
+data/data/usuarios.json
+Documentação Global Soluction Python - Atualizada.pdf
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
